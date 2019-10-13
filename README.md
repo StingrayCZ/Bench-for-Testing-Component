@@ -11,6 +11,6 @@ Various options were considered in the preliminary design. From a welded assembl
 The construction in the figure below consists of a separate table with a superstructure to which other functional table elements are mounted. We can also notice the superstructures in the lower part of the table, which contain controls, a power supply and a box with PCB boards. Yellow plate is made of plastic. The entire work area is covered with a two-piece hinged cover and a rear sliding cover. Since the parts of the hinged cover are not of the same length, it was necessary to design a mechanism that allows the greatest possible opening of the cover for convenient access. The rear doors are equipped with simple travels that allow up and down movement. Magnets are used for fixing in the upper position.
 
 <p float="left">
-  <img src="/Pictures/Table_1.png" width="400" /> 
-  <img src="/Pictures/Table_2.png" width="400" /> 
+  <img src="/Pictures/Table_1.png" width="380" /> 
+  <img src="/Pictures/Table_2.png" width="320" /> 
 </p>
