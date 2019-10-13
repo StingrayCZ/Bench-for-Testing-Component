@@ -9,3 +9,8 @@ This project aimed to design a simple test bench for testing the subassemblies. 
 Various options were considered in the preliminary design. From a welded assembly, through an aluminum modular construction to a wooden construction. The wood variant was rejected at the beginning because of the high dust levels and the risk of small particles breaking off, which could negatively affect testing. Because the subassembly is designed for laboratory application, there is a request for corrosion resistance. Unfortunately, the welded stainless steel assembly is too expensive. That is why the aluminum profile construction was chosen, which is complemented by carbon steel sheets with a corrosion-resistant surface.
 
 The construction in the figure below consists of a separate table with a superstructure to which other functional table elements are mounted. We can also notice the superstructures in the lower part of the table, which contain controls, a power supply and a box with PCB boards. Yellow plate is made of plastic. The entire work area is covered with a two-piece hinged cover and a rear sliding cover. Since the parts of the hinged cover are not of the same length, it was necessary to design a mechanism that allows the greatest possible opening of the cover for convenient access. The rear doors are equipped with simple travels that allow up and down movement. Magnets are used for fixing in the upper position.
+
+<p float="left">
+  <img src="/Pictures/Table_1.PNG" width="400" /> 
+  <img src="/Pictures/Table_2.PNG" width="400" /> 
+</p>
