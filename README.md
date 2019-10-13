@@ -12,5 +12,11 @@ The construction in the figure below consists of a separate table with a superst
 
 <p float="left">
   <img src="/Pictures/Table_1.png" width="380" /> 
-  <img src="/Pictures/Table_2.png" width="320" /> 
+  <img src="/Pictures/Table_3.png" width="320" /> 
+</p>
+
+<p float="left">
+  <img src="/Pictures/Table_2.png" width="280" /> 
+  <img src="/Pictures/Table_4.png" width="220" />
+  <img src="/Pictures/Table_5.png" width="220" /> 
 </p>
