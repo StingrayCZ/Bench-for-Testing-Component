@@ -1,4 +1,4 @@
-# Bench-for-Testing-Component
+# Bench for Testing Component
 
 These days, in any industrial branch, it is difficult to succeed in a market that requires high quality product and is influenced by a strong competitive environment. To be successful in such a market, it is necessary to constantly innovate products and to follow modern trends. However, a great R&D team with a group of talented developers is not always enough for success. Innovations of manufacturing process and production tools that help to turn the dreams of designers and developers into real products, it is necessary to pay attention to them. We  also need to acknowledge the importance of manufacturing and innovation tools that help turn the dreams of designers and developers into real products. Manufacturing isn’t just a question of quality. An important value is the speed and time in which the machines and workers are able to produce the items and thus influence the price of the products.
 
